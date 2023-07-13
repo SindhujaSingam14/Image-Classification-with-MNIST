@@ -10,7 +10,7 @@ torchvision (version 0.8.2 or above)
 matplotlib (version 3.3.4 or above)
 numpy (version 1.19.2 or above)
 pandas (version 1.2.3 or above)
-scikit-learn (version 0.24.1 or above)
+scikit-learn (version 0.24.1 or above).
 
 ### Loading and Preprocessing the Data
 The MNIST dataset is loaded using the torchvision.datasets.MNIST class. The data is transformed into tensors using transforms.ToTensor(), which converts the PIL image data to PyTorch tensors. The data is split into training and testing sets.
